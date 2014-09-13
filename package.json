@@ -1,0 +1,10 @@
+{
+  "name": "redirector",
+  "version": "0.0.1",
+  "repo": "https://github.com/hij1nx/redirector",
+  "keywords": [],
+  "dependencies": {
+    "hij1nx/libuv-http": "0.1.0"
+  }
+}
+
