@@ -10,6 +10,10 @@
 #include <string>
 #include <regex>
 
+using namespace std;
+using namespace http;
+using namespace route;
+
 namespace redirector {
 
   //

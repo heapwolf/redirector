@@ -1,8 +1,5 @@
 #include "redirector.h"
 
-using namespace std;
-using namespace http;
-using namespace route;
 using namespace redirector;
 
 int main() {
