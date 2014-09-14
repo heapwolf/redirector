@@ -5,7 +5,9 @@
       'target_name': 'server',
       'type': 'executable',
       'sources': [
-        './deps/nodeuv-http/http.cc', 'server.cc',
+        './deps/nodeuv-http/http.cc', 
+        'redirector.cc',
+        'server.cc',
       ],
       'include_dirs': [
         './deps/leveldb/include',
