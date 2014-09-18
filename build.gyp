@@ -5,7 +5,8 @@
       'target_name': 'server',
       'type': 'executable',
       'sources': [
-        './deps/nodeuv-http/http.cc', 
+        './deps/nodeuv-http/src/http.cc', 
+        './deps/nodeuv-http/src/http-server.cc', 
         'redirector.cc',
         'server.cc',
       ],

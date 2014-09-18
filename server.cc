@@ -18,7 +18,7 @@ int main() {
 
   Route router;
   Debug debug("server", Debug::verbose, cout);
- 
+
   Server server([&](auto &req, auto &res) {
 
     auto u = uri::ParseHttpUrl(req.url);
