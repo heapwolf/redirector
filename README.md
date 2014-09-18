@@ -6,7 +6,7 @@ An example of how to use [`nodeuv-http`](https://github.com/hij1nx/nodeuv-http).
 
 # USAGE
 ```bash
-./server --port 3000 --host 127.0.0.1
+./server
 ```
 
 # HTTP API
